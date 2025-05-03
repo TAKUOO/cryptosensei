@@ -1,3 +1,3 @@
 # cryptosensei
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/TAKUOO/cryptosensei)
+ユーザーが入力したニュース記事URLをもとに、記事本文を解析し、初心者向けに「要約」「重要箇所のマーカー」「補足解説」を含む解説結果を返却するAIサービス。
