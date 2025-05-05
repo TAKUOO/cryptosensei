@@ -133,11 +133,16 @@ function App() {
     <div className="min-h-screen bg-background">
       <div className="container mx-auto px-4 py-12">
         <div className="max-w-2xl mx-auto">
-          <div className="flex items-center gap-3 mb-8">
-            <NewspaperIcon className="h-8 w-8 text-primary" />
-            <h1 className="text-2xl font-bold text-text">
-              仮想通貨ニュースをわかりやすく解説
-            </h1>
+        <div className="text-center mb-12">
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <NewspaperIcon className="h-12 w-12 text-primary" />
+              <h1 className="text-3xl font-bold text-text">
+                クリプト先生
+              </h1>
+            </div>
+            <p className="text-gray text-lg">
+              AIが仮想通貨ニュースを分かりやすく要約・解説します。
+            </p>
           </div>
 
           <div className="card p-6">
